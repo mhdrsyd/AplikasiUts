@@ -217,7 +217,7 @@ public class aplikasiAgendaPribadi extends javax.swing.JFrame {
                 .addContainerGap(19, Short.MAX_VALUE))
         );
 
-        jPanel3.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel3.setBackground(java.awt.Color.white);
 
         jLabel2.setFont(new java.awt.Font("Cascadia Mono", 1, 14)); // NOI18N
         jLabel2.setText("Pilih Tahun :");
