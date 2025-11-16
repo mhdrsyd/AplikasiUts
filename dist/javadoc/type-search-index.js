@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"view","l":"aplikasiAgendaPribadi"},{"p":"Database","l":"DatabaseConnection"},{"p":"Database","l":"DatabaseSetup"}];updateSearchResults();
